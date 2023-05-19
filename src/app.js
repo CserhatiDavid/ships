@@ -9,7 +9,7 @@
 * Nem vállalunk felelősséget a rossz jegyekért
 */
 const doc={
-    tableBody:document.querySelector("#tbody")
+    tableBody:document.querySelector("#tableBody")
 };
 const state={
     host:"http://localhost:8000/",
